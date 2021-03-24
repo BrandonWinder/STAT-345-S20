@@ -1,2 +1,2 @@
 # STAT-345-S20
-GitHub Intro
+Introduction on how to use GitHub.
